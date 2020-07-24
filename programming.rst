@@ -10,4 +10,6 @@ Programming
    :maxdepth: 2
    :glob:
 
+   ./docs/git_tips
    ./docs/python_tips
+   
