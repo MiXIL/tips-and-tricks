@@ -12,3 +12,4 @@ Software/OS
    :glob:
 
    ./docs/Ubuntu_tips
+   ./docs/docker
