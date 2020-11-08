@@ -12,4 +12,4 @@ Programming
 
    ./docs/git_tips
    ./docs/python_tips
-   
+   ./docs/latex
